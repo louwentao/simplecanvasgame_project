@@ -1,0 +1,178 @@
+{
+    "resources": {
+        "first": [
+            {
+                "name": "bgImg",
+                "type": "image",
+                "url": "../../../../img/bg.png"
+            },
+            {
+                "name": "barImg",
+                "type": "image",
+                "url": "../../../../img/bar.png"
+            },
+            {
+                "name": "textimg1",
+                "type": "image",
+                "url": "../../../../img/test1.png"
+            },
+            {
+                "name": "textjson1",
+                "type": "json",
+                "url": "../../../../json/test1.json"
+            }
+        ],
+        "resources": [
+            {
+                "name": "myPlane_1",
+                "type": "image",
+                "url": "../../../../img/myPlane_1.png"
+            },
+            {
+                "name": "myPlane_2",
+                "type": "image",
+                "url": "../../../../img/myPlane_2.png"
+            },
+            {
+                "name": "myPlane_3",
+                "type": "image",
+                "url": "../../../../img/myPlane_3.png"
+            },
+            {
+                "name": "enemy_1",
+                "type": "image",
+                "url": "../../../../img/enemy_1.png"
+            },
+            {
+                "name": "enemy_2",
+                "type": "image",
+                "url": "../../../../img/enemy_2.png"
+            },
+            {
+                "name": "enemy_3",
+                "type": "image",
+                "url": "../../../../img/enemy_3.png"
+            },
+            {
+                "name": "enemy_4",
+                "type": "image",
+                "url": "../../../../img/enemy_4.png"
+            },
+            {
+                "name": "enemy_5",
+                "type": "image",
+                "url": "../../../../img/enemy_5.png"
+            },
+            {
+                "name": "enemy_6",
+                "type": "image",
+                "url": "../../../../img/enemy_6.png"
+            },
+            {
+                "name": "enemy_7",
+                "type": "image",
+                "url": "../../../../img/enemy_7.png"
+            },
+            {
+                "name": "enemy_8",
+                "type": "image",
+                "url": "../../../../img/enemy_8.png"
+            },
+            {
+                "name": "enemy_9",
+                "type": "image",
+                "url": "../../../../img/enemy_9.png"
+            },
+            {
+                "name": "enemy_10",
+                "type": "image",
+                "url": "../../../../img/enemy_10.png"
+            },
+            {
+                "name": "enemy_11",
+                "type": "image",
+                "url": "../../../../img/enemy_11.png"
+            },
+            {
+                "name": "enemy_12",
+                "type": "image",
+                "url": "../../../../img/enemy_12.png"
+            },
+            {
+                "name": "enemy_13",
+                "type": "image",
+                "url": "../../../../img/enemy_13.png"
+            },
+            {
+                "name": "enemy_14",
+                "type": "image",
+                "url": "../../../../img/enemy_14.png"
+            },
+            {
+                "name": "enemy_15",
+                "type": "image",
+                "url": "../../../../img/enemy_15.png"
+            },
+            {
+                "name": "enemy_16",
+                "type": "image",
+                "url": "../../../../img/enemy_16.png"
+            },
+            {
+                "name": "enemy_17",
+                "type": "image",
+                "url": "../../../../img/enemy_17.png"
+            },
+            {
+                "name": "bullet_1",
+                "type": "image",
+                "url": "../../../../img/bullet_1.png"
+            },
+            {
+                "name": "bullet_2",
+                "type": "image",
+                "url": "../../../../img/bullet_2.png"
+            },
+            {
+                "name": "bullet_3",
+                "type": "image",
+                "url": "../../../../img/bullet_3.png"
+            },
+            {
+                "name": "bullet_4",
+                "type": "image",
+                "url": "../../../../img/bullet_4.png"
+            },
+            {
+                "name": "bullet_5",
+                "type": "image",
+                "url": "../../../../img/bullet_5.png"
+            },
+            {
+                "name": "map_1",
+                "type": "image",
+                "url": "../../../../img/map_1.png"
+            },
+            {
+                "name": "map_2",
+                "type": "image",
+                "url": "../../../../img/map_2.png"
+            },
+            {
+                "name": "yun_1",
+                "type": "image",
+                "url": "../../../../img/yun_1.png"
+            },
+            {
+                "name": "yun_2",
+                "type": "image",
+                "url": "../../../../img/yun_2.png"
+            },
+            {
+                "name": "yun_3",
+                "type": "image",
+                "url": "../../../../img/yun_3.png"
+            }
+        ]
+    }
+}
